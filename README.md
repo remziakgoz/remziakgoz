@@ -15,8 +15,9 @@ I am a passionate Android developer with experience in Kotlin and Jetpack Compos
 
 ### 📱 Android Applications
 
-*[CardLingua](https://play.google.com/store/apps/details?id=com.remziakgoz.cardlingua&hl=en): A language learning app I developed and published on the Google Play Store. Built with modern Android tools including Kotlin, Jetpack Compose, and Room.
-*[ToDo List with Compose](https://play.google.com/store/apps/details?id=com.remziakgoz.todolistwithcompose&hl=en): A modern to-do list application built entirely with Jetpack Compose. This app focuses on simplicity and performance while showcasing dynamic UI handling, state management, and Room database integration.
+🐸 [CardLingua](https://play.google.com/store/apps/details?id=com.remziakgoz.cardlingua&hl=en): A language learning app I developed and published on the Google Play Store. Built with modern Android tools including Kotlin, Jetpack Compose, and Room.
+
+✅ [ToDo List with Compose](https://play.google.com/store/apps/details?id=com.remziakgoz.todolistwithcompose&hl=en): A modern to-do list application built entirely with Jetpack Compose. This app focuses on simplicity and performance while showcasing dynamic UI handling, state management, and Room database integration.
 
 
 ### Skills
