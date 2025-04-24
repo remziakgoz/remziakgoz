@@ -11,6 +11,12 @@ I am a passionate Android developer with experience in Kotlin and Jetpack Compos
 * 🧠  I'm learning Android Development
 * 🤝  I'm open to collaborating on Android Projects
 * ⚡  I am an energetic and socially adept individual with strong interpersonal skills. I excel in collaborative environments and thrive in dynamic, team-oriented settings
+  
+
+### 📱 Android Applications
+
+[CardLingua](https://play.google.com/store/apps/details?id=com.remziakgoz.cardlingua&hl=en): A language learning app I developed and published on the Google Play Store. Built with modern Android tools including Kotlin, Jetpack Compose, and Room.
+
 
 ### Skills
 
