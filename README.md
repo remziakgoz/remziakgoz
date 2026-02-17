@@ -1,23 +1,26 @@
-<!--Right side image-->
 <div>
-  <img align="right" width="40%" src="./squirrel">
+  <img align="right" width="40%" src="./squirrel" />
 </div>
 
 # Hi 👋 My name is Remzi Akgoz
+### Android & Kotlin Multiplatform Developer
+<br />
 
-## Android & Kotlin Multiplatform Developer
-
+<p align="left">
 I am a passionate mobile developer with strong experience in Kotlin, Jetpack Compose, and Kotlin Multiplatform. I build apps that run on both Android and iOS, and I'm committed to continuously exploring new technologies. I have hands-on experience in data management, API integration, and shipping production apps to multiple storefronts.
+</p>
 
 - 🌍  I'm based in Adana
 - ✉️  You can contact me at [remziakgoz01@gmail.com](mailto:remziakgoz01@gmail.com)
 - 📝  I write on [Substack](https://substack.com/@remziakgoz)
 - 🚀  I'm currently focused on Kotlin Multiplatform
 - 🤝  I'm open to collaborating on Android & KMP Projects
-- ⚡  I am an energetic and socially adept individual with strong interpersonal skills. I excel in collaborative environments and thrive in dynamic, team-oriented settings
+- ⚡  Energetic, socially adept, and team-oriented.
+
+<br />
+<br />
 
 ---
-
 
 ## 📱 Mobile Applications
 
