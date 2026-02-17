@@ -19,7 +19,6 @@ I am a passionate mobile developer with strong experience in Kotlin, Jetpack Com
 
 <br />
 <br />
-
 ---
 
 ## 📱 Mobile Applications
