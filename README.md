@@ -17,8 +17,8 @@ I am a passionate mobile developer with strong experience in Kotlin, Jetpack Com
 - 🤝  I'm open to collaborating on Android & KMP Projects
 - ⚡  Energetic, socially adept, and team-oriented.
 
-<br />
-<br />
+<br clear="true" />
+
 ---
 
 ## 📱 Mobile Applications
