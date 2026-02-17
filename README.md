@@ -45,7 +45,6 @@ A modern to-do list application built entirely with Jetpack Compose. Focuses on 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.onflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flow-colored.svg" width="36" height="36" alt="Flow" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://kotlinlang.org/docs/multiplatform.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/KMP-7F52FF?style=flat&logo=kotlin&logoColor=white" height="36" width="36" alt="Kotlin Multiplatform" /></a>
 </p>
 
 ---
@@ -96,6 +95,10 @@ A modern to-do list application built entirely with Jetpack Compose. Focuses on 
   </picture>
 </a>
 <a href="https://substack.com/@remziakgoz" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/substack/FF6719" height="32" width="32" alt="Substack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/substack/ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/substack/000000" />
+    <img src="https://cdn.simpleicons.org/substack/000000" height="28" width="28" alt="Substack" />
+  </picture>
 </a>
 </p>
