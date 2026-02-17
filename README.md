@@ -1,3 +1,8 @@
+<!--Right side image-->
+<div>
+  <img align="right" width="40%" src="./squirrel">
+</div>
+
 # Hi 👋 My name is Remzi Akgoz
 
 ## Android & Kotlin Multiplatform Developer
@@ -12,6 +17,7 @@ I am a passionate mobile developer with strong experience in Kotlin, Jetpack Com
 - ⚡  I am an energetic and socially adept individual with strong interpersonal skills. I excel in collaborative environments and thrive in dynamic, team-oriented settings
 
 ---
+
 
 ## 📱 Mobile Applications
 
