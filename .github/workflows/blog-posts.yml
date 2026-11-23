@@ -1,0 +1,21 @@
+name: Latest Weekly Indie Log posts
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://remziakgoz.substack.com/feed"
+          max_post_count: 5
+          committer_username: "remziakgoz"
+          commit_message: "Update latest Weekly Indie Log posts"
