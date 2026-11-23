@@ -10,7 +10,7 @@ I build small, cozy apps on my own, from the first line of code to the store pag
 
 I write about it every week in public, numbers and mistakes included.
 
-## <img src="assets/icon-heading.png" width="26" height="34" align="absmiddle" alt="" /> CoffeePomodoro
+## <img src="assets/icon-title.png" width="26" height="31" align="absmiddle" alt="" /> CoffeePomodoro
 
 <a href="https://coffeepomodoro.com"><img src="assets/screens.jpg" alt="CoffeePomodoro screenshots" width="100%" /></a>
 
